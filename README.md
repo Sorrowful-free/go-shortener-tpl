@@ -1,4 +1,4 @@
-# go-musthave-shortener-tpl
+# go-shortener-tpl
 
 «Сервис сокращения URL» в рамках обучения Яндекс.Практикум
 
